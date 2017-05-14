@@ -22,6 +22,12 @@
       <p class="author__bio" itemprop="description">
         {{ author.bio }}
       </p>
+    {% else %}
+      <p class="author__bio" itemprop="description">
+        <span>Software Engineer at <a href="https://planning.center">Planning Center</a>.</span>
+        <span>Ruby, Rails, JavaScript.</span>
+        <span>Mother, knitter and eternal learner.</span>
+      </p>
     {% endif %}
   </div>
 

@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Gabi Jack"
   avatar           : "/assets/images/gabi-photo-3.jpg"
-  bio              : "Software engineer, knitter and eternal learner."
+  bio              : 
   location         : "Bryan, OH"
   email            :
   uri              : "https://gjack.github.io"
